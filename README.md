@@ -1,4 +1,4 @@
-# CODE TEST (YanceyWorks)
+# LARAVEL-NUXT DEMO APP
 
 This is a simple Laravel-Nuxt project showing administrative CRUD operations for 
 companies and users (employees or admin).
