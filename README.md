@@ -1,7 +1,7 @@
 # LARAVEL-NUXT DEMO APP
 
-This is a simple Laravel-Nuxt project showing administrative CRUD operations for 
-companies and users (employees or admin).
+This is my simple Laravel-Nuxt project showing administrative CRUD operations for 
+companies and users (employees or admin). I often show this project to jobs that I apply for. Just to show how knowledgeable I am with Vue/Nuxt and Laravel.
 
 ![image](https://user-images.githubusercontent.com/63578260/112604673-61d86980-8e51-11eb-951d-00088d25bf7f.png) ![image](https://user-images.githubusercontent.com/63578260/112604780-816f9200-8e51-11eb-948b-34c05d3238d1.png)
 
